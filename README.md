@@ -1,16 +1,43 @@
-### 我就像屎的倒影。
+目击你刚刚完成这一跳
 
-<!--
-**Rustin-Liu/Rustin-Liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+不值钱的苦就算结束了
 
-Here are some ideas to get you started:
+闭上睡眼闭上循环画面
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+能想起来的那些命运们
+
+在脑海自动巡游了一遍
+
+你的小船汇入汪洋不见
+
+ 
+
+当你感到那光逼到最近
+
+你心头的昏暗都已远去
+
+所有尝试的生活的意义
+
+停在过活生生的眼睛里
+
+所有从梦的半空飘过的
+
+现在已经重新回到原地
+
+ 
+
+这一定是你一生唯一次
+
+站在了比别人高的地方
+
+夕阳真好看再见了夕阳
+
+陪你入眠的是温柔闪电
+
+看着你落下的人和人间
+
+随这声响全部烂成碎片
+
+ 
+
+（一八年五月）
