@@ -1,4 +1,4 @@
-### Hi there 👋
+### 我就像屎的倒影。
 
 <!--
 **Rustin-Liu/Rustin-Liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
