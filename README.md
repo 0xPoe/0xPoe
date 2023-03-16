@@ -2,7 +2,7 @@
 
 [![][resume-badge]][resume] [![][linkedin-badge]](https://www.linkedin.com/in/rustin-liu-1a91a5260)
 
-I'm Rustin Liu, a software engineer from China and also a Rustacean in [Rust] community. I love Rust, cycling and open source. Currently contribute to ["Cargo: The Rust package manager"] and ["Rustup: The Rust toolchain installer"] regularly.
+I'm Rustin Liu, a software engineer from China and also a Rustacean in [Rust] community. I love Rust, running and open source. Currently contribute to ["Cargo: The Rust package manager"] and ["Rustup: The Rust toolchain installer"] regularly.
 
 Things I code with: Rust, Golang, Node.js, web development, DevOps, finding bugs.
 
