@@ -3,8 +3,7 @@
 [![][resume-badge]][resume] [![][github-badge]][github] [![][linkedin-badge]][linkedin]
 
 I'm Rustin Liu, a software engineer from China and also a Rustacean in [Rust] community. I love Rust, running and open
-source. Currently contribute to ["Cargo: The Rust package manager"] and ["Rustup: The Rust toolchain installer"]
-regularly.
+source. Currently contribute to ["Cargo: The Rust package manager"] and ["Rustup: The Rust toolchain installer"] regularly. Recently, I have also been trying to understand and implement [pprof](https://github.com/google/pprof).
 
 Things I code with: Rust, Golang, Node.js, web development, DevOps, finding bugs.
 
