@@ -1,6 +1,6 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> Hello there
 
-[![Resume][resume-badge]][resume] [![GitHub][github-badge]][github] [![Linkedin][linkedin-badge]][linkedin] [![Website][website-badge]][website] [![Twitter][twitter-badge]][twitter] [![YouTube][you-tube-badge]][you-tube]
+[![Resume][resume-badge]][resume] [![GitHub][github-badge]][github] [![Linkedin][linkedin-badge]][linkedin] [![Website][website-badge]][website] [![Twitter][twitter-badge]][twitter] [![Mastodon][mastodon-badge]][mastodon] [![YouTube][you-tube-badge]][you-tube]
 
 My name is Rustin Liu and I’m a passionate software engineer who specializes in distributed systems, build systems, and programming tools.
 
@@ -53,6 +53,8 @@ You can contact me by clicking badges above or below badges, or e-mailing me dir
 [website]: https://hi-rustin.rs
 [twitter-badge]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white&logo=twitter
 [twitter]: https://twitter.com/hi_rustin
+[mastodon-badge]: https://img.shields.io/badge/Mastodon-2b90d9?style=for-the-badge&logoColor=white&logo=mastodon
+[mastodon]: https://mastodon.world/@hi_rustin
 [you-tube-badge]: https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logoColor=white&logo=youtube
 [you-tube]: https://www.youtube.com/@hi-rustin
 [PingCAP]: https://www.pingcap.com/
