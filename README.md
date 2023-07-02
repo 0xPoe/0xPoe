@@ -41,7 +41,7 @@ Languages I speak:
 
 You can contact me by clicking badges above or below badges, or e-mailing me directly. My email address is on my GitHub profile.
 
-[![Resume][resume-badge]][resume] [![GitHub][github-badge]][github] [![Linkedin][linkedin-badge]][linkedin][![Website][website-badge]][website] [![Twitter][twitter-badge]][twitter] [![YouTube][you-tube-badge]][you-tube]
+[![Resume][resume-badge]][resume] [![GitHub][github-badge]][github] [![Linkedin][linkedin-badge]][linkedin][![Website][website-badge]][website] [![Twitter][twitter-badge]][twitter] [![Mastodon][mastodon-badge]][mastodon] [![YouTube][you-tube-badge]][you-tube]
 
 [resume-badge]: https://img.shields.io/badge/Résumé-f48300?style=for-the-badge&logoColor=white&logo=rust
 [resume]: https://github.com/hi-rustin/resume/blob/main/resume.pdf
