@@ -12,6 +12,8 @@ I am also a big believer in open source. I contribute to the [Rust] community, w
 
 - ["Rustup: The Rust toolchain installer"] - Rustup installs Rust from the official release channels, enabling you to easily switch between stable, beta, and nightly compilers and keep them updated.
 
+Currently learning:  I am exploring the field of [continuous profiling] and trying to build a tool to help developers profile their applications in production.
+
 Programming languages I primarily code in:
 
 - Rust
@@ -62,6 +64,7 @@ You can contact me by clicking badges above or below badges, or e-mailing me dir
 ["Rust compiler"]: https://github.com/rust-lang/rust
 ["Cargo: The Rust package manager"]: https://github.com/rust-lang/cargo
 ["Rustup: The Rust toolchain installer"]: https://github.com/rust-lang/rustup
+[continuous profiling]: https://github.com/grafana/phlare
 [cargo-commits]: https://img.shields.io/badge/156+commits-black?logoColor=balck&logo=rust&label=Cargo&style=social
 [rustup-commits]: https://img.shields.io/badge/110+commits-black?logoColor=balck&logo=rust&label=Rustup&style=social
 [rust-commits]: https://img.shields.io/badge/64+commits-black?logoColor=balck&logo=rust&label=Rust&style=social
