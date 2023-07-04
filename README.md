@@ -61,7 +61,6 @@ You can contact me by clicking badges above or below badges, or e-mailing me dir
 [TiDB]: https://github.com/pingcap/tidb
 [TiCDC]: https://github.com/pingcap/tiflow
 [Rust]: https://www.rust-lang.org/
-["Rust compiler"]: https://github.com/rust-lang/rust
 ["Cargo: The Rust package manager"]: https://github.com/rust-lang/cargo
 ["Rustup: The Rust toolchain installer"]: https://github.com/rust-lang/rustup
 [continuous profiling]: https://github.com/grafana/phlare
