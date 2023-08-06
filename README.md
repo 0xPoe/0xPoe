@@ -64,6 +64,7 @@ You can contact me by clicking badges above or below badges, or e-mailing me dir
 [Cargo]: https://github.com/rust-lang/cargo
 [axum]: https://github.com/tokio-rs/axum
 [Rustup]: https://github.com/rust-lang/rustup
+[continuous profiling]: https://github.com/grafana/pyroscope
 [cargo-commits]: https://img.shields.io/badge/156+commits-black?logoColor=balck&logo=rust&label=Cargo&style=social
 [rustup-commits]: https://img.shields.io/badge/110+commits-black?logoColor=balck&logo=rust&label=Rustup&style=social
 [rust-commits]: https://img.shields.io/badge/64+commits-black?logoColor=balck&logo=rust&label=Rust&style=social
