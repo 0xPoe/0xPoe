@@ -59,7 +59,7 @@ You can contact me by clicking badges above or below badges, or e-mailing me dir
 [TiDB]: https://github.com/pingcap/tidb
 [TiCDC]: https://github.com/pingcap/tiflow
 [Cargo]: https://github.com/rust-lang/cargo
-[crates-io-commits]: https://img.shields.io/badge/34+commits-black?logoColor=balck&logo=rust&label=crates.io&style=social
+[crates-io-commits]: https://img.shields.io/badge/36+commits-black?logoColor=balck&logo=rust&label=crates.io&style=social
 [Rustup]: https://github.com/rust-lang/rustup
 [cargo-commits]: https://img.shields.io/badge/169+commits-black?logoColor=balck&logo=rust&label=Cargo&style=social
 [rustup-commits]: https://img.shields.io/badge/110+commits-black?logoColor=balck&logo=rust&label=Rustup&style=social
