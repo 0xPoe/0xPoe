@@ -2,7 +2,7 @@
 
 [![Resume][resume-badge]][resume] [![GitHub][github-badge]][github] [![Linkedin][linkedin-badge]][linkedin] [![Website][website-badge]][website] [![Twitter][twitter-badge]][twitter] [![YouTube][you-tube-badge]][you-tube]
 
-> **I am always open to new opportunities(Except for web3 and blockchain). I'm particularly interested in relocating to other countries, especially Europe, Canada, or the United States. If you are interested in working with me, please feel free to contact me.**
+> **I am always open to new opportunities. I'm particularly interested in relocating to other countries, especially Europe, Canada, or the United States. If you are interested in working with me, please feel free to contact me.**
 
 My name is Rustin Liu and I’m a passionate software engineer who specializes in distributed systems and dev tools.
 
