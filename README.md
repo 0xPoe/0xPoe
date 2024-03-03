@@ -8,10 +8,11 @@ My name is Rustin Liu and I’m a passionate software engineer who specializes i
 
 As a software engineer at [PingCAP], my main focus is on enhancing [TiDB], which is an open-source distributed SQL database. I am also a core maintainer of [TiCDC], which is a Change Data Capture (CDC) system for [TiDB].
 
-I am also a big believer in open source. I contribute to the Rust community, where I am working on two projects:
+I am also a big believer in open source. I contribute to the Rust community, where I am working on three projects:
 
 - [Cargo] - Cargo downloads your Rust package’s dependencies, compiles your packages, makes distributable packages.
 - [crates.io](https://github.com/rust-lang/crates.io) - The Rust package registry.
+- [console] - A debugger for async rust!
 
 I used to be a maintainer of [Rustup], which is a toolchain manager for Rust.
 
@@ -61,6 +62,7 @@ You can contact me by clicking badges above or below badges, or e-mailing me dir
 [TiDB]: https://github.com/pingcap/tidb
 [TiCDC]: https://github.com/pingcap/tiflow
 [Cargo]: https://github.com/rust-lang/cargo
+[console]: https://github.com/tokio-rs/console
 [crates-io-commits]: https://img.shields.io/badge/60+commits-black?logoColor=balck&logo=rust&label=crates.io&style=social
 [Rustup]: https://github.com/rust-lang/rustup
 [cargo-commits]: https://img.shields.io/badge/200+commits-black?logoColor=balck&logo=rust&label=Cargo&style=social
