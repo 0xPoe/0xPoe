@@ -14,34 +14,21 @@ I am also a big believer in open source. I contribute to the Rust community, whe
 Programming languages I primarily code in:
 
 - Rust
-
-  [![cargo-commits][cargo-commits]](<https://github.com/rust-lang/cargo/commits?author=Rustin170506>)
-
-  [![crates-io-commits][crates-io-commits]](<https://github.com/rust-lang/crates.io/commits?author=Rustin170506>)
-
-  [![console-commits][console-commits]](<https://github.com/tokio-rs/console/commits?author=Rustin170506>)
-
-  [![rustup-commits][rustup-commits]](https://github.com/rust-lang/rustup/commits?author=Rustin170506)
-
-  [![rust-commits][rust-commits]](https://github.com/rust-lang/rust/commits?author=Rustin170506)
-
-  [![tikv-commits][tikv-commits]](https://github.com/tikv/tikv/commits?author=Rustin170506)
-
-  [![built-my-own-x-commits][built-my-own-x-commits]](https://github.com/Rustin170506/build-my-own-x/commits?author=Rustin170506)
+  - [![cargo-commits][cargo-commits]](<https://github.com/rust-lang/cargo/commits?author=Rustin170506>)
+  - [![crates-io-commits][crates-io-commits]](<https://github.com/rust-lang/crates.io/commits?author=Rustin170506>)
+  - [![console-commits][console-commits]](<https://github.com/tokio-rs/console/commits?author=Rustin170506>)
+  - [![rustup-commits][rustup-commits]](https://github.com/rust-lang/rustup/commits?author=Rustin170506)
+  - [![rust-commits][rust-commits]](https://github.com/rust-lang/rust/commits?author=Rustin170506)
+  - [![tikv-commits][tikv-commits]](https://github.com/tikv/tikv/commits?author=Rustin170506)
+  - [![built-my-own-x-commits][built-my-own-x-commits]](https://github.com/Rustin170506/build-my-own-x/commits?author=Rustin170506)
 - Golang
-
-  [![tidb-commits][tidb-commits]](https://github.com/pingcap/tidb/commits?author=Rustin170506)
-
-  [![tiflow-commits][tiflow-commits]](https://github.com/pingcap/tiflow/commits?author=Rustin170506)
-
-  [![tichi-commits][tichi-commits]](https://github.com/ti-community-infra/tichi/commits?author=Rustin170506)
+  - [![tidb-commits][tidb-commits]](https://github.com/pingcap/tidb/commits?author=Rustin170506)
+  - [![tiflow-commits][tiflow-commits]](https://github.com/pingcap/tiflow/commits?author=Rustin170506)
+  - [![tichi-commits][tichi-commits]](https://github.com/ti-community-infra/tichi/commits?author=Rustin170506)
 - TypeScript/JavaScript
-
-  [![tokio-console-web-commits][tokio-console-web-commits]](https://github.com/Rustin170506/tokio-console-web/commits?author=Rustin170506)
-
-  [![ant-design-commits][ant-design-commits]](https://github.com/ant-design/ant-design/commits?author=Rustin170506)
-
-  [![tispace-commits][tispace-commits]](https://github.com/tispace-dev/tispace/commits?author=Rustin170506)
+  - [![tokio-console-web-commits][tokio-console-web-commits]](https://github.com/Rustin170506/tokio-console-web/commits?author=Rustin170506)
+  - [![ant-design-commits][ant-design-commits]](https://github.com/ant-design/ant-design/commits?author=Rustin170506)
+  - [![tispace-commits][tispace-commits]](https://github.com/tispace-dev/tispace/commits?author=Rustin170506)
 
 Languages I speak:
 
@@ -68,3 +55,4 @@ Languages I speak:
 [tokio-console-web-commits]: <https://img.shields.io/badge/Author-black?logoColor=balck&logo=typescript&label=Tokio%20Console%20Web&style=social>
 [ant-design-commits]: <https://img.shields.io/badge/Former%20Maintainer-black?logoColor=balck&logo=typescript&label=Ant%20Design&style=social>
 [tispace-commits]: <https://img.shields.io/badge/Author-black?logoColor=balck&logo=typescript&label=TiSpace&style=social>
+
