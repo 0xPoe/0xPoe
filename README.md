@@ -18,7 +18,5 @@ Languages I speak:
 [TiDB]: https://github.com/pingcap/tidb
 [TiCDC]: https://github.com/pingcap/tiflow
 [cargo]: https://github.com/rust-lang/cargo
-[console]: https://github.com/tokio-rs/console
-[tokio-console-web]: https://github.com/Rustin170506/tokio-console-web
 [crates.io]: https://github.com/rust-lang/crates.io
 [submit a new issue]: https://github.com/Rustin170506/Rustin170506/issues/new
