@@ -1,4 +1,4 @@
-👋 My name is Rustin Liu and I’m a passionate software engineer who specializes in distributed systems and dev tools.
+👋 My name is Poe Liu and I’m a passionate software engineer who specializes in distributed systems and dev tools.
 
 As a software engineer at [PingCAP], my main focus is on enhancing [TiDB], which is an open-source distributed SQL database. I am also a core maintainer of [TiCDC], which is a Change Data Capture (CDC) system for [TiDB].
 
@@ -19,4 +19,4 @@ Languages I speak:
 [TiCDC]: https://github.com/pingcap/tiflow
 [cargo]: https://github.com/rust-lang/cargo
 [crates.io]: https://github.com/rust-lang/crates.io
-[submit a new issue]: https://github.com/Rustin170506/Rustin170506/issues/new
+[submit a new issue]: https://github.com/OxPoe/OxPoe/issues/new
