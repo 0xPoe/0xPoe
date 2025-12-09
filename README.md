@@ -2,10 +2,7 @@
 
 As a software engineer at [PingCAP], my main focus is on enhancing [TiDB], which is an open-source distributed SQL database. I am also a core maintainer of [TiCDC], which is a Change Data Capture (CDC) system for [TiDB].
 
-I am also a big believer in open source. I contribute to the Rust community, where I am working on two projects:
-
-- [cargo] - Cargo downloads your Rust package’s dependencies, compiles your packages, makes distributable packages.
-- [crates.io] - The Rust package registry.
+I am a strong believer in open source. I contribute to the Rust community, where I work on [Cargo].
 
 Programming languages I primarily code in: Rust/Go/TypeScript/JavaScript.
 
